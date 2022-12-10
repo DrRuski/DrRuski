@@ -1,20 +1,12 @@
 ### Hi there, I'm Ilya 👋
 
 ```js
-const personalInformation = {
-[]
-}
-```
+const whoAmI = {
+    name: "Ilya",
+    codingLanguage: [HTML, CSS, Javascript],
+    softwareTools: [VSCode, Figma, AdobeXD],
+    values: ["mobile-first approach", "design thinking process","KISS"],
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    futureStudy: [Javascript, SASS, React, Node],
+}```
 
