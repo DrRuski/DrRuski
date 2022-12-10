@@ -8,5 +8,6 @@ const whoAmI = {
     values: ["mobile-first approach", "design thinking process","KISS"],
 
     futureStudy: [Javascript, SASS, React, Node],
-}```
+}
+```
 
