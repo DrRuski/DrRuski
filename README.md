@@ -6,7 +6,7 @@ const whoAmI = {
     name: "Ilya",
 
     education: {
-        UX Design: ![Noroff School of technology and digital media](https://www.noroff.no/en/),
+        UX Design: "![Noroff School of technology and digital media](https://www.noroff.no/en/)",
         Frontend Development: "Noroff School of technology and digital media",
         },
 
