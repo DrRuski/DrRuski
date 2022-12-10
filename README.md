@@ -10,11 +10,11 @@ const whoAmI = {
         Frontend Development: "Noroff School of technology and digital media",
         },
 
-    codingLanguage: [HTML, CSS, Javascript],
+    code: [HTML, CSS, Javascript],
 
-    vocalLanguage: [Norwegian, English, Russian],
+    language: [Norwegian, English, Russian],
 
-    softwareTools: [VSCode, Figma, AdobeXD],
+    software: [VSCode, Figma, AdobeXD],
 
     values: ["mobile-first approach", "design thinking process","KISS"],
 };
