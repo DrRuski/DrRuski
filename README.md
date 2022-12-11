@@ -6,9 +6,24 @@ const whoAmI = {
     name: "Ilya",
 
     education: {
-        UX Design: "Noroff School of technology and digital media",
-        Frontend Development: "Noroff School of technology and digital media",
-        },
+    
+        Mediadesign: {
+            degree: "Bachelor",
+            location: "HiV (Høgskolen i Volda)",
+            duration: "3 (Three) Years"
+            };
+            
+        UX Design: {
+            degree: "Professional Degree",
+            location: "Noroff School of technology and digital media",
+            duration: "1 (One) Year"
+        };
+        
+        Frontend Development: {
+            degree: "Higher Professional Degree",
+            location: "Noroff School of technology and digital media",
+            duration: "2 (Two) Years"
+        };
 
     code: [HTML, CSS, Javascript],
 
