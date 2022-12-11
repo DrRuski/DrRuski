@@ -11,20 +11,21 @@ const whoAmI = {
             degree: "Bachelor",
             location: "HiV (Høgskolen i Volda)",
             duration: "3 (Three) Years"
-            };
+            },
             
-        UX Design: {
+        UXDesign: {
             degree: "Professional Degree",
             location: "Noroff School of technology and digital media",
             duration: "1 (One) Year"
-        };
+        },
         
-        Frontend Development: {
+        FrontendDevelopment: {
             degree: "Higher Professional Degree",
             location: "Noroff School of technology and digital media",
             duration: "2 (Two) Years"
-        };
-
+        },
+    },
+    
     code: [HTML, CSS, Javascript],
 
     language: [Norwegian, English, Russian],
