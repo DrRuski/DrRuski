@@ -3,8 +3,6 @@
 ```js
 const whoAmI = {
 
-    name: "Elias",
-
     education: {
     
         Mediadesign: {
