@@ -26,7 +26,7 @@ const whoAmI = {
     
     code: [HTML, CSS, Javascript],
 
-    language: [Norwegian, English, Russian],
+    language: [Norwegian, English],
 
     software: [VSCode, Figma, AdobeXD],
 
