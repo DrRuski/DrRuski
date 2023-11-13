@@ -23,15 +23,12 @@ const whoAmI = {
         },
     },
     
-    code: [HTML, CSS, Javascript],
+    code: [HTML, CSS, Javascript, React, Bootstrap, Tailwind],
 
     language: [Norwegian, English],
 
     software: [VSCode, Figma, AdobeXD],
-
-    values: ["mobile-first approach", "design thinking process","KISS"],
 };
 ```
-
-<a href="https://app.daily.dev/eliasekorns"><img src="https://api.daily.dev/devcards/6ab55b22013f42439e4b46a0295c2d4c.png?r=3n0" width="400" alt="Elias Ekornås's Dev Card"/></a>
+<a href="https://app.daily.dev/eliasekorns"><img src="https://api.daily.dev/devcards/6ab55b22013f42439e4b46a0295c2d4c.png?r=wxy" width="400" alt="Elias Ekornås's Dev Card"/></a>
 
