@@ -30,5 +30,5 @@ const whoAmI = {
     software: [VSCode, Figma, AdobeXD],
 };
 ```
-<a href="https://app.daily.dev/eliasekorns"><img src="https://api.daily.dev/devcards/6ab55b22013f42439e4b46a0295c2d4c.png?r=0oj" width="400" alt="Elias Ekornås's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DrRuski/DrRuski/blob/master/devcard.svg" width="400" alt="DrRuskis Dope Dev Card"/></a>
 
