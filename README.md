@@ -1,9 +1,8 @@
-### Hi there, I'm Elias 👋
+### Who am I...
 ```js
-const whoAmI = {
+const Elias = {
 
     education: {
-    
         Mediadesign: {
             degree: "Bachelor",
             location: "HiV (Høgskolen i Volda)",
@@ -22,13 +21,18 @@ const whoAmI = {
             duration: "2 (Two) Years"
         },
     },
-    
-    code: [HTML, CSS, Javascript, React, Bootstrap, Tailwind],
 
-    language: [Norwegian, English],
+    stack: {
+        code: ["HTML", "CSS", "Javascript", "TypeScript"],
+        frameworks: ["React", "Tailwind", "Bootstrap"],
+        }
 
-    software: [VSCode, Figma, AdobeXD],
+    language: ["Norwegian", "English", "Russian"],
+    software: ["VSCode", "Figma", "AdobeXD"],
 };
 ```
+
+
+
 <a href="https://app.daily.dev/eliasekorns"><img src="https://github.com/DrRuski/DrRuski/blob/main/devcard.svg" width="400" alt="Elias Ekornås's Dev Card"/></a>
 
