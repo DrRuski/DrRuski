@@ -25,7 +25,7 @@ const Elias = {
     stack: {
         code: ["HTML", "CSS", "Javascript", "TypeScript"],
         frameworks: ["React", "Tailwind", "Bootstrap"],
-        }
+        },
 
     language: ["Norwegian", "English", "Russian"],
     software: ["VSCode", "Figma", "AdobeXD"],
